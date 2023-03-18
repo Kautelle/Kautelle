@@ -18,7 +18,7 @@
 <img align="center" alt="Kautelle-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Kautelle-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Kautelle-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Kautelle-Typescript" height="30" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png">
+<img align="center" alt="Kautelle-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   
   
