@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Washington Miscossi 👋🏻
 
 - 🔭  Cursando faculdade de Análise e Desenvolvimento de Sistemas - Fatec/Taquaritinga_SP
-- 🌱 Aprendendo sobre C++, CSS, HTML, JavaScript, C# e Typescript;
+- 🌱 Aprendendo sobre C++, CSS, HTML, JavaScript, C# e TypeScript;
 - 📩 @washingtonmiscossi123@gmail.com
 
 <div align="center">
