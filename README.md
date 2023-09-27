@@ -19,7 +19,7 @@
 <img align="center" alt="Kautelle-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Kautelle-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Kautelle-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
+<img align="center" alt="Kautelle-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
   
   
   
